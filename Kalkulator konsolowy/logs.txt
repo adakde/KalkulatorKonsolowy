@@ -1,0 +1,12 @@
+Operacja: 3
+ Dane: 23, 32
+ Wynik: 736
+Operacja: 3
+ Dane: 245, 234
+ Wynik: 57330
+Operacja: 2
+ Dane: 10, 5
+ Wynik: 5
+Operacja: 2
+ Dane: 50, 50
+ Wynik: 0
