@@ -15,13 +15,12 @@ Prosty kalkulator konsolowy z obs³ug¹ podstawowych operacji matematycznych oraz 
 
 ## Wymagania
 - [.NET 6 SDK](https://dotnet.microsoft.com/download)
-
-**Instalacja:**  
-```bash
-git clone https://github.com/adakde/KalkulatorKonsolowy.git
-cd KalkulatorKonsolowy/Kalkulator\ konsolowy
-dotnet run
-
+- 
+## Zdobyte umiejêtnoœci
+- Obs³uga b³êdów w C#
+- Praca z plikami (zapis/odczyt)
+- Refaktoryzacja kodu na metody
+- Zarz¹dzanie projektem w GitHub
 ## Przyk³adowe u¿ycie
 Przyk³adowe u¿ycie
 Copy
@@ -49,17 +48,15 @@ Operacja: 6
  Dane: 2, 8
  Wynik: 256
 
-Autor:
+## Autor:
 @adakde
 
-Licencja:
+## Licencja:
 MIT
-
-### Jak dodaæ do repozytorium:
-1. Utwórz nowy plik `README.md` w g³ównym folderze projektu
-2. Wklej powy¿sz¹ treœæ
-3. Wykonaj komendy:
+**Instalacja:**  
 ```bash
-git add README.md
-git commit -m "Dodano uproszczony README"
-git push
+git clone https://github.com/adakde/KalkulatorKonsolowy.git
+cd KalkulatorKonsolowy/Kalkulator\ konsolowy
+dotnet run
+
+
