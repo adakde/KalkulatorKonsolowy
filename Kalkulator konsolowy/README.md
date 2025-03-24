@@ -64,8 +64,8 @@ Operacja: 6
 ✅ Zarządzanie projektem w GitHub
 
 ✅ Dokumentacja kodu
-🏗️ Struktura projektu
 
+🏗️ Struktura projektu
 
 KalkulatorKonsolowy/
 ├── Program.cs         # Główna logika aplikacji
