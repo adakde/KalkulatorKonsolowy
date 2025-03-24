@@ -39,16 +39,28 @@ Wybierz opcje:
 8. Pokaż historię
 
 Twój wybór: 6
+
 Podaj pierwszą liczbę: 2
+
 Podaj drugą liczbę: 8
+
 Wynik: 256
+
 Struktura logów
+
 Wszystkie operacje są zapisywane w pliku logs.txt w formacie:
 
 Operacja: 6
- Dane: 2, 8
- Wynik: 256
 
+ Dane: 2, 8
+ 
+ Wynik: 256
+ 
+**Instalacja:**  
+```bash
+git clone https://github.com/adakde/KalkulatorKonsolowy.git
+cd KalkulatorKonsolowy/Kalkulator\ konsolowy
+dotnet run
 
 ## Autor:
 @adakde
@@ -68,16 +80,15 @@ Operacja: 6
 🏗️ Struktura projektu
 
 KalkulatorKonsolowy/
-├── Program.cs         # Główna logika aplikacji
-├── logs.txt           # Historia operacji
-└── README.md          # Dokumentacja
+
+Program.cs         # Główna logika aplikacji
+
+logs.txt           # Historia operacji
+
+README.md          # Dokumentacja
 
 ## Licencja:
 MIT
-**Instalacja:**  
-```bash
-git clone https://github.com/adakde/KalkulatorKonsolowy.git
-cd KalkulatorKonsolowy/Kalkulator\ konsolowy
-dotnet run
+
 
 
