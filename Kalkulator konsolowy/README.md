@@ -56,11 +56,10 @@ Operacja: 6
  
  Wynik: 256
  
-**Instalacja:**  
-```bash
-git clone https://github.com/adakde/KalkulatorKonsolowy.git
-cd KalkulatorKonsolowy/Kalkulator\ konsolowy
-dotnet run
+## 🚀 Instalacja i uruchomienie
+1. Klonowanie repozytorium:
+   ```bash
+   git clone https://github.com/adakde/KalkulatorKonsolowy.git
 
 ## Autor:
 @adakde
