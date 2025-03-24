@@ -65,6 +65,8 @@ Operacja: 6
 
 ✅ Dokumentacja kodu
 🏗️ Struktura projektu
+
+
 KalkulatorKonsolowy/
 ├── Program.cs         # Główna logika aplikacji
 ├── logs.txt           # Historia operacji
