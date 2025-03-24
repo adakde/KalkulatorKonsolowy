@@ -1,55 +1,73 @@
-# Kalkulator Konsolowy w C#
+# 🧮 Kalkulator Konsolowy w C#
 
-Prosty kalkulator konsolowy z obs�ug� podstawowych operacji matematycznych oraz histori� oblicze�.
+![GitHub last commit](https://img.shields.io/github/last-commit/adakde/KalkulatorKonsolowy)
+![License](https://img.shields.io/badge/license-MIT-blue)
 
-## Funkcje
-- Dodawanie
-- Odejmowanie
-- Mno�enie
-- Dzielenie
-- Pot�gowanie
-- Reszta z dzielenia (modulo)
-- Historia operacji (zapis i podgl�d)
-- Obs�uga b��d�w (np. dzielenie przez zero)
-- Kolorowe komunikaty
+Prosty kalkulator konsolowy z obsługą podstawowych operacji matematycznych oraz historią obliczeń.
 
+## ✨ Funkcje
+- ➕ Dodawanie
+- ➖ Odejmowanie
+- ✖️ Mnożenie
+- ➗ Dzielenie (z obsługą błędów)
+- ⚡ Potęgowanie
+- 🔍 Reszta z dzielenia (modulo)
+- 📜 Historia operacji (zapis i podgląd)
+- 🎨 Kolorowe komunikaty w konsoli
+- 📁 Zapis operacji do pliku `logs.txt`
 ## Wymagania
-- [.NET 6 SDK](https://dotnet.microsoft.com/download)
-- 
-## Zdobyte umiej�tno�ci
-- Obs�uga b��d�w w C#
+- [.NET 6.0+](https://dotnet.microsoft.com/download)
+- IDE (Visual Studio / VS Code / JetBrains Rider)
+## Zdobyte umiejętności
+- Obsługa błędów w C#
 - Praca z plikami (zapis/odczyt)
 - Refaktoryzacja kodu na metody
-- Zarz�dzanie projektem w GitHub
-## Przyk�adowe u�ycie
-Przyk�adowe u�ycie
-Copy
+- Zarządzanie projektem w GitHub
+## Przykładowe użycie
+Przykładowe użycie
+
 Witaj w kalkulatorze konsolowym!
 
 Wybierz opcje:
 1. Dodawanie
 2. Odejmowanie
-3. Mno�enie
+3. Mnożenie
 4. Dzielenie
 5. Modulo
-6. Pot�gowanie
+6. Potęgowanie
 7. Wyjdz
-8. Poka� histori�
+8. Pokaż historię
 
-Tw�j wyb�r: 6
-Podaj pierwsz� liczb�: 2
-Podaj drug� liczb�: 8
+Twój wybór: 6
+Podaj pierwszą liczbę: 2
+Podaj drugą liczbę: 8
 Wynik: 256
-Struktura log�w
-Wszystkie operacje s� zapisywane w pliku logs.txt w formacie:
+Struktura logów
+Wszystkie operacje są zapisywane w pliku logs.txt w formacie:
 
-Copy
 Operacja: 6
  Dane: 2, 8
  Wynik: 256
 
+
 ## Autor:
 @adakde
+
+📚 Zdobyte umiejętności
+✅ Obsługa błędów w C# (try-catch)
+
+✅ Praca z plikami (StreamWriter, StreamReader)
+
+✅ Refaktoryzacja kodu na metody
+
+✅ Zarządzanie projektem w GitHub
+
+✅ Dokumentacja kodu
+🏗️ Struktura projektu
+KalkulatorKonsolowy/
+├── Program.cs         # Główna logika aplikacji
+├── logs.txt           # Historia operacji
+└── README.md          # Dokumentacja
 
 ## Licencja:
 MIT
