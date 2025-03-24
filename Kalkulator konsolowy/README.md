@@ -54,6 +54,7 @@ Operacja: 6
 @adakde
 
 📚 Zdobyte umiejętności
+
 ✅ Obsługa błędów w C# (try-catch)
 
 ✅ Praca z plikami (StreamWriter, StreamReader)
